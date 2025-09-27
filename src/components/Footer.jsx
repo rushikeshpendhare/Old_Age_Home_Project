@@ -20,14 +20,14 @@ export default function Footer() {
         &copy; {new Date().getFullYear()} NIVARA Old Age Home. All rights reserved.
       </Typography>
       <Typography variant="body2" component="p" sx={{ mt: 0.5, fontSize: 14 }}>
-        Designed with care by{" "}
+        Designed with care by{""}
         <Link
           href="https://github.com"
           target="_blank"
           rel="noopener"
           sx={{ color: "white", textDecoration: "underline" }}
         >
-          Your Team
+          Rushikesh Pendhare
         </Link>
       </Typography>
     </Box>
