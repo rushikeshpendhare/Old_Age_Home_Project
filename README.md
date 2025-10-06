@@ -1,6 +1,8 @@
-This repository contains a fully responsive and modern Old Age Home website built with ReactJS. The project features an elegant user interface, easy navigation across Home, About Us, Services, Gallery, Admission, Survey, and Contact pages, and showcases detailed information for residents and families.
+This is a complete Old Age Home website built with ReactJS, designed to provide clear, informative, and welcoming access to all key services for senior residents and their families. The site features dedicated pages for Home, About Us, Services, Gallery, Admission, Survey, and Contact, allowing users to explore facilities, staff, activities, and resident care options with ease.
 
-The site uses Material UI and Framer Motion for a polished, interactive look, with adaptive layouts for mobile, tablet, and desktop devices. Forms are included for admissions and feedback, and the gallery provides a visual showcase of facilities and events. Designed for real-world use, this project is an ideal reference for learning ReactJS in modern web development.
+It uses Material UI for a clean and intuitive interface, along with Framer Motion for smooth animations. The responsive layout ensures that every page displays perfectly on mobile phones, tablets, and desktops. Visitors can browse an interactive gallery, fill out online admission and contact forms, and read about holistic facilities, health programs, and daily events.
+
+Driven by modern web development best practices, this project is ideal as a learning or portfolio resource for anyone exploring ReactJS, responsive design, and UI/UX for real-world applications. All code is modular and easily extendable for future needs.
 
 # React + Vite
 
